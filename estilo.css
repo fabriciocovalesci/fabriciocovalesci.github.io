@@ -21,6 +21,12 @@
     padding: 0 10px;
 }
 
+.foto-slide{
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
 .conhecimentos{
     margin: 0 auto;
     padding: 0 10px;
