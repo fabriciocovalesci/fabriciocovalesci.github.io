@@ -1,3 +1,8 @@
-.cabecalho{
-    background: blue;
+.bg-color-jumbotron{
+    background-color: #100D16;
+}
+
+.titulo-fonte{
+    font-family: 'Comfortaa', cursive;
+
 }
