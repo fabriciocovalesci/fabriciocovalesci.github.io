@@ -2,6 +2,11 @@
     background-color: #100D16;
 }
 
+.jumbotron{
+    width: 100%;
+    height: 100vh;
+}
+
 .titulo-fonte{
     font-family: 'Comfortaa', cursive;
 
