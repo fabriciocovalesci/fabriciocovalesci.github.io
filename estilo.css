@@ -12,10 +12,6 @@
 
 }
 
-.botao{
-    transition: all 1s ease-in-out;
-}
-
 .sobre-mim{
     margin: 0 auto;
     padding: 0 10px;
@@ -37,6 +33,10 @@
     padding: 0 10px;
 }
 
+.iot{
+ margin: 0 auto;
+ padding: 0 10px;
+}
 
 .projetos{
     margin: 0 auto;
