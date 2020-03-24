@@ -4,7 +4,7 @@
 
 .jumbotron{
     width: 100%;
-    height: 100vh;
+    height: calc(100vh - 8px);
 }
 
 .titulo-fonte{
@@ -32,10 +32,11 @@
     height: 400px;
 }
 
-.conhecimentos{
+.minicurso{
     margin: 0 auto;
     padding: 0 10px;
 }
+
 
 .projetos{
     margin: 0 auto;
