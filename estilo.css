@@ -57,3 +57,19 @@
     font-size: 2em;
     font-family: 'Comfortaa', cursive;
 }
+
+
+
+
+
+
+.rodape{
+    background: #100D16;
+}
+
+.titulo__rodape{
+    color: white;
+    font-family: 'Comfortaa', cursive;
+    font-size: 14px;
+    text-align: center;
+}
