@@ -1,75 +1,84 @@
-.bg-color-jumbotron{
-    background-color: #100D16;
+.bg-color-jumbotron {
+  background-color: #100d16;
 }
 
-.jumbotron{
-    width: 100%;
-    height: calc(100vh - 8px);
+.jumbotron {
+  width: 100%;
+  height: calc(100vh - 8px);
 }
 
-.titulo-fonte{
-    font-family: 'Comfortaa', cursive;
-
+.titulo-fonte {
+  font-family: "Comfortaa", cursive;
 }
 
-.sobre-mim{
-    margin: 0 auto;
-    padding: 0 10px;
+.sobre-mim {
+  margin: 0 auto;
+  padding: 0 10px;
 }
 
 .formacao {
-    margin: 0 auto;
-    padding: 0 10px;
+  margin: 0 auto;
+  padding: 0 10px;
 }
 
-.foto-slide{
-    object-fit: cover;
-    object-position: 0 80%;
-    height: 400px;
+.foto-slide {
+  object-fit: cover;
+  object-position: 0 80%;
+  height: 400px;
 }
 
-.minicurso{
-    margin: 0 auto;
-    padding: 0 10px;
+.minicurso {
+  margin: 0 auto;
+  padding: 0 10px;
 }
 
-.iot{
- margin: 0 auto;
- padding: 0 10px;
+.iot {
+  margin: 0 auto;
+  padding: 0 10px;
 }
 
-.projetos{
-    margin: 0 auto;
-    padding: 0 10px;
+.projetos {
+  margin: 0 auto;
+  padding: 0 10px;
 }
 
-.eventos{
-    margin: 0 auto;
-    padding: 0 10px;
+.eventos {
+  margin: 0 auto;
+  padding: 0 10px;
 }
 
-.contato{
-    margin: 0 auto;
-    padding: 0 10px;
+.contato {
+  margin: 0 auto;
+  padding: 0 10px;
 }
 
 #whoami {
-    font-size: 2em;
-    font-family: 'Comfortaa', cursive;
+  font-size: 2em;
+  font-family: "Comfortaa", cursive;
 }
 
-
-
-
-
-
-.rodape{
-    background: #100D16;
+.foto-icone {
+  height: 35px;
+  width: 35px;
 }
 
-.titulo__rodape{
-    color: white;
-    font-family: 'Comfortaa', cursive;
-    font-size: 14px;
-    text-align: center;
+.fonte-contato {
+  color: #100d16;
+  font-family: "Baloo Da 2", cursive;
+}
+
+.contato-item {
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.rodape {
+  background: #100d16;
+}
+
+.titulo__rodape {
+  color: white;
+  font-family: "Comfortaa", cursive;
+  font-size: 14px;
+  text-align: center;
 }
