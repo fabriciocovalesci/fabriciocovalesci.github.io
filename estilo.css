@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 .bg-color-jumbotron {
   background-color: #100d16;
 }
@@ -11,50 +15,29 @@
   font-family: "Comfortaa", cursive;
 }
 
-.sobre-mim {
-  margin: 0 auto;
-  padding: 0 10px;
-}
-
-.formacao {
-  margin: 0 auto;
-  padding: 0 10px;
-}
-
 .foto-slide {
   object-fit: cover;
   object-position: 0 80%;
   height: 400px;
 }
 
-.minicurso {
+.margens {
   margin: 0 auto;
-  padding: 0 10px;
-}
-
-.iot {
-  margin: 0 auto;
-  padding: 0 10px;
-}
-
-.projetos {
-  margin: 0 auto;
-  padding: 0 10px;
-}
-
-.eventos {
-  margin: 0 auto;
-  padding: 0 10px;
-}
-
-.contato {
-  margin: 0 auto;
-  padding: 0 10px;
+  padding: 10px;
 }
 
 #whoami {
   font-size: 2em;
   font-family: "Comfortaa", cursive;
+  padding-top: 20px;
+}
+
+.altura {
+  padding-top: 45px;
+}
+
+.altura-evento {
+  padding-top: 80px;
 }
 
 .foto-icone {
