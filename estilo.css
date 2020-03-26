@@ -41,12 +41,18 @@ html {
 }
 
 .altura-contato {
-  padding-top: 15px;
+  padding-top: 50px;
 }
 
 #contato {
   width: 100%;
-  height: calc(100vh - 40px);
+  height: calc(100vh - 96px);
+}
+
+.contato-item {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
 }
 
 .foto-icone {
