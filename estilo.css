@@ -40,6 +40,15 @@ html {
   padding-top: 80px;
 }
 
+.altura-contato {
+  padding-top: 15px;
+}
+
+#contato {
+  width: 100%;
+  height: calc(100vh - 40px);
+}
+
 .foto-icone {
   height: 35px;
   width: 35px;
@@ -48,11 +57,6 @@ html {
 .fonte-contato {
   color: #100d16;
   font-family: "Baloo Da 2", cursive;
-}
-
-.contato-item {
-  margin: 0 auto;
-  padding: 10px;
 }
 
 .rodape {
