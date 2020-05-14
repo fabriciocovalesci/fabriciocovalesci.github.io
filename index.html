@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
     <link
       rel="stylesheet"
       href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
@@ -77,12 +78,22 @@
         <div class="jumbotron bg-color-jumbotron text-light">
           <br />
           <br />
-          <h1 class="display-4 text-center titulo-fonte">Welcome</h1>
-          <h2 class="text-center titulo-fonte">Fabrício Luis Covalesci</h2>
+          <div class="d-flex justify-content-center">
+          <svg  width="200" height="200" viewBox="0 0 40 60">
+            <polygon class="triangle" fill="none" stroke="#fff" stroke-width="1" points="16,1 32,32 1,32" />
+             <text class="loading" x="0" y="45" fill="#fff">Loading...</text> 
+          </svg> 
+        </div>
+        
+          <h2 class="text-center titulo-fonte" id="fabricio">print( Fabrício Luis Covalesci )</h2>
           <br />
           <p class="lead text-center titulo-fonte">Can the machines think ?</p>
           <p class="lead text-center titulo-fonte">by Alan Turing.</p>
           <hr class="my-4" />
+
+
+         
+
         </div>
       </section>
     </header>
@@ -551,5 +562,6 @@
       integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
       crossorigin="anonymous"
     ></script>
+    <script src="js/index.js"></script>
   </body>
 </html>
