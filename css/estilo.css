@@ -76,24 +76,14 @@ html {
   text-align: center;
 }
 
-/* ------------------ANIMAÇÃO LOGO--------------------------- */
+/* ------------------ANIMAÇÃO Loading--------------------------- */
 
-
-.triangle {
-  stroke-dasharray: 17;
-  animation: dash 2.5s cubic-bezier(0.35, 0.04, 0.63, 0.95) infinite;
-  display: flex !important;
-}
-@keyframes dash {
-  to {
-      stroke-dashoffset: 136;
-  }
-}
 
 .loading {
-  font-family: 'Orbitron', sans-serif;
-  font-size: 7px;
+  font-size: 25px;
   animation: blink .9s ease-in-out infinite;
+  font-family: "Comfortaa", cursive;
+
 }
 @keyframes blink {
   50% {
@@ -102,33 +92,7 @@ html {
 }
 
 
-/* ------------------- ANIMAÇÃO INICIO ------------------- */
-
-
-#welcome {
-  max-width: 480px;
-  text-align: center;
-  margin: 60px auto;
-  font-family: "Comfortaa", cursive;
-  color: #fff;
-}
-
-#welcome::after {
-  content: '|';
-  opacity: 1;
-  margin-left: 5px;
-  display: inline-block;
-  animation: blink .8s infinite;
-}
-
-@keyframes blink {
-  0%, 100% {
-    opacity: 1;
-  }
-  50% {
-    opacity: 0;
-  }
-}
+/* ------------------- ANIMAÇÃO Fabricio ------------------- */
 
 #fabricio {
   max-width: 480px;

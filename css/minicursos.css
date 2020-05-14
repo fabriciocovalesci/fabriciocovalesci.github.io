@@ -1,0 +1,38 @@
+#botaoid {
+    padding: 5px;
+}
+
+#botaoid:hover {
+	color:rgb(116, 114, 190);
+    box-shadow: 0 2px 3px #777;
+    scale: 2px;
+}
+
+.bt1 {
+	transition: .8s;
+}
+
+.botao{
+    padding: 5px !important;
+}
+
+
+.mini-curso{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Comfortaa", cursive;
+    margin: 10px;
+    padding: 5px;
+}
+
+.titulo-tecnologias{
+    text-align: center;
+    font-family: "Comfortaa", cursive;
+}
+
+.figura{
+    height: auto;
+    width: 100%;
+}
+

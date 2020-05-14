@@ -10,11 +10,6 @@ function typeWrite(elemento){
 
   });
 }
-// const titulo = document.querySelector('#welcome');
-
-// setTimeout(typeWrite(titulo),4500);
-
-
 
 const nomeTitulo = document.querySelector('#fabricio');
 
