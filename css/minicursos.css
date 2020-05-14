@@ -9,7 +9,19 @@
 }
 
 .bt1 {
-	transition: .8s;
+    transition: .8s;
+    margin: 5px;
+}
+
+.botao1 {
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin: 10px;
 }
 
 .mini-curso{
