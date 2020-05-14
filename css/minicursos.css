@@ -24,14 +24,60 @@
     margin: 10px;
 }
 
+body{
+    background-color: #f2f6fe;
+}
+
 .mini-curso{
     display: flex;
     justify-content: center;
     align-items: center;
     font-family: "Comfortaa", cursive;
-    margin: 10px;
     padding: 5px;
+    background-color: #c3e9fa;
 }
+
+
+.titulo-minicurso{
+
+}
+
+/* -------------------ICONES TITULOS ---------------------- */
+.gears-back{
+    color: #1faabf;
+}
+
+.color-front{
+    color: #c174db;
+}
+
+.server{
+    color: #4f7af5;
+}
+
+.icone-gestao{
+    color: #82c91e;
+}
+
+
+/* ---------------ICONES CURSOS --------------------- */
+.seta-back{
+    color: #0a551e;
+}
+
+.seta-front{
+    color: #a60d9e;
+}
+
+.seta-infra{
+    color: #0d42aa;
+}
+
+.seta-gestao{
+    color: tomato;
+}
+
+
 
 .titulo-tecnologias{
     text-align: center;
@@ -43,3 +89,24 @@
     width: 100%;
 }
 
+
+#back{
+    margin-top: 40px;
+    padding: 30px;
+}
+
+
+#front{
+    margin-top: 40px;
+    padding: 30px;
+}
+
+#infra{
+    margin-top: 40px;
+    padding: 20px;
+}
+
+#gestao{
+    margin-top: 40px;
+    padding: 20px;
+}
