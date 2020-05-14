@@ -1,5 +1,5 @@
-#botaoid {
-    padding: 5px;
+#botaovolta{
+    margin-top: 30px;
 }
 
 #botaoid:hover {
@@ -11,8 +11,6 @@
 .bt1 {
 	transition: .8s;
 }
-
-
 
 .mini-curso{
     display: flex;
