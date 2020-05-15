@@ -2,6 +2,10 @@ html {
   scroll-behavior: smooth;
 }
 
+body{
+  background-color: #f2f6fe;
+}
+
 .bg-color-jumbotron {
   background-color: #100d16;
 }
