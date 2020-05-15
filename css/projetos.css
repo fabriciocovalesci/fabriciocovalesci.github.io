@@ -5,3 +5,36 @@ body{
 .seta-tec{
     color: #c174db;
 }
+
+.seta-proj{
+    color: #1faabf;
+}
+
+.seta-hack{
+    color: #f1c381;
+}
+
+.seta-medalha{
+    color: #cd7f32;
+}
+
+.seta-dev{
+    color: #fb803f;
+}
+
+.titulo-projeto{
+    font-family: "Comfortaa", cursive;
+}
+
+.texto-descritivo{
+    font-family: "Comfortaa", cursive;
+}
+
+.time{
+    font-family: "Comfortaa", cursive;
+    padding: 10px;
+}
+
+.time-lista{
+    padding: 6px; 
+}
